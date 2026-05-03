@@ -8,7 +8,7 @@ A real-world A/B/C experiment analyzing CTA button copy on the **Google Merchand
 
 | Resource | Link |
 |---|---|
-| 🌐 Live Portfolio Site | [View on Render](https://your-site.onrender.com) |
+| 🌐 Live Portfolio Site | [View on Render](https://a-b-testing-with-google-s-ga4-public-mern.onrender.com) |
 | 📓 Google Colab Notebook | [Open in Colab](https://colab.research.google.com/drive/1pKsNSc2DPEhk7rBXHw-RyHemJuDSjimV#scrollTo=2H6syIF3W4lc) |
 | 📊 Public Dataset | [GA4 BigQuery Dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&page=dataset) |
 
